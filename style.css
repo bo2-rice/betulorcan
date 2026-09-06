@@ -158,9 +158,9 @@
   }
   .hero-photo img{
     width:100%;
-    height: 480px;
-    object-fit:cover;
-    object-position: center 28%;
+    height:auto;
+    max-height:520px;
+    object-fit:contain;
     border-radius:3px;
   }
   .hero-photo::after{
