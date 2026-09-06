@@ -386,8 +386,8 @@
 .course-block li:first-child{ border-top:none; }
 .course-block li strong{ color:var(--text); font-weight:600; }
 
-.photo-frame{ position:relative; margin-bottom:28px; }
-.photo-frame img{ width:100%; max-height:420px; object-fit:cover; border-radius:3px; }
+.photo-frame{ position:relative; margin-bottom:28px; background:var(--bg-alt); text-align:center; }
+.photo-frame img{ width:auto; max-width:100%; max-height:520px; object-fit:contain; border-radius:3px; margin:0 auto; }
 .photo-frame::after{ content:""; position:absolute; inset:0; border:1px solid var(--border); pointer-events:none; }
 
 .note-quote{ font-size:.92rem; color:var(--text-soft); font-style:italic; margin:0 0 24px; }
