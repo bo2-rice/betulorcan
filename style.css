@@ -61,13 +61,9 @@
     text-decoration:none;
   }
   .brand-mark{
-    width:30px; height:30px;
-    border:1.5px solid var(--gold);
-    display:flex; align-items:center; justify-content:center;
-    font-family: var(--serif);
-    font-size:0.85rem;
-    color: var(--gold);
+    width:auto; height:34px;
     flex-shrink:0;
+    display:block;
   }
   nav.primary-nav ul{
     list-style:none; display:flex; gap:2px; margin:0; padding:0;
@@ -341,7 +337,7 @@
     nav.primary-nav ul{ gap:0; }
     nav.primary-nav a{ padding:10px 9px; font-size:0.84rem; }
     .hero-inner{ grid-template-columns:1fr; gap:36px; padding:48px 24px 44px; }
-    .hero-photo img{ height:320px; }
+    .hero-photo img{ max-height:320px; }
     .teaching-grid{ grid-template-columns:1fr; gap:36px; }
     .research-grid{ grid-template-columns: repeat(2,1fr); }
     .quick-grid{ grid-template-columns: repeat(2,1fr); gap:32px; }
