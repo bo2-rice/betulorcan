@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bo2-rice.github.io/betulorcan/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bo2-rice.github.io/betulorcan/directed-reading-program.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bo2-rice.github.io/betulorcan/undergrad-research.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bo2-rice.github.io/betulorcan/curriculum-vitae.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bo2-rice.github.io/betulorcan/courses-seminars.html</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>

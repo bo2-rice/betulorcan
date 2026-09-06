@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bo2-rice.github.io/betulorcan/sitemap.xml
