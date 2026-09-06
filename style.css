@@ -163,12 +163,6 @@
     object-fit:contain;
     border-radius:3px;
   }
-  .hero-photo::after{
-    content:"";
-    position:absolute; inset:0;
-    border:1px solid var(--border);
-    pointer-events:none;
-  }
 
   /* ===== Section shell ===== */
   section{ padding: 68px 0; }
